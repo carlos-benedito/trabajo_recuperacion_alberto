@@ -1,0 +1,7 @@
+00091005;Juan;Sevilla;Rodriguez;19/02/1966;Mostoles
+#Hospital La Paz;Dermatologia;Dra. Maria Lozano Robles;15/05/2023;8:45
+#Hospital La Paz;Dermatologia;Dra. Maria Lozano Robles;21/05/2024;9:05
+#Hospital La Paz;Alergologia;Dr. Manuel Manzano Rojas;13/06/2024;10:55
+001351227;Macarena;Lopez;Silva;02/11/1999;Madrid
+#Centro de Salud Gracia Noblejas;Medicina de familia;Dr. Raul Castaño Mora;10/10/2023;10:50
+#Hospital 12 de Octubre;Cardiologia;Dra. Victoria Santos Sanz;30/09/2024;16:45

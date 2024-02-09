@@ -1,0 +1,16 @@
+<HistorialCitas>
+	<Cita>
+		<Centro>Centro de Salud Gracia Noblejas</Centro>
+		<Especialidad>Medicina de familia</Especialidad>
+		<Doctor>Dr. Raul Castaño Mora</Doctor>
+		<Fecha>10/10/2023</Fecha>
+		<Hora>10:50</Hora>
+	</Cita>
+	<Cita>
+		<Centro>Hospital 12 de Octubre</Centro>
+		<Especialidad>Cardiologia</Especialidad>
+		<Doctor>Dra. Victoria Santos Sanz</Doctor>
+		<Fecha>30/09/2024</Fecha>
+		<Hora>16:45</Hora>
+	</Cita>
+</HistorialCitas>

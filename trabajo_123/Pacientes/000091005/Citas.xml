@@ -1,0 +1,23 @@
+<HistorialCitas>
+	<Cita>
+		<Centro>Hospital La Paz</Centro>
+		<Especialidad>Dermatologia</Especialidad>
+		<Doctor>Dra. Maria Lozano Robles</Doctor>
+		<Fecha>15/05/2023</Fecha>
+		<Hora>8:45</Hora>
+	</Cita>
+	<Cita>
+		<Centro>Hospital La Paz</Centro>
+		<Especialidad>Dermatologia</Especialidad>
+		<Doctor>Dra. Maria Lozano Robles</Doctor>
+		<Fecha>21/05/2024</Fecha>
+		<Hora>9:05</Hora>
+	</Cita>
+	<Cita>
+		<Centro>Hospital La Paz</Centro>
+		<Especialidad>Alergologia</Especialidad>
+		<Doctor>Dr. Manuel Manzano Rojas</Doctor>
+		<Fecha>13/06/2024</Fecha>
+		<Hora>10:55</Hora>
+	</Cita>
+</HistorialCitas>
